@@ -1,16 +1,9 @@
-# blog_app
+# Travel Blog App using Firebase
 
-A new Flutter project.
+Travel Blog App using Firebase
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Output
+![m1](https://user-images.githubusercontent.com/109650374/205503680-ebe57fae-1edd-44c2-9cb9-eb80cb8ac869.jpeg)
+![m2](https://user-images.githubusercontent.com/109650374/205503688-fe445e73-b1bc-490c-bcc3-ddf98e2acb2d.jpeg)
+![m3](https://user-images.githubusercontent.com/109650374/205503693-976e46ea-99f6-4c67-b32f-4a15aac7afed.jpeg)
+![m4](https://user-images.githubusercontent.com/109650374/205503694-1ca41d57-00b0-4b4d-915e-5c4f522b2e19.jpeg)
